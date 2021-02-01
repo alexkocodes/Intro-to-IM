@@ -10,4 +10,6 @@ I realized that when I used circle(), the circle is filled with white area. Ther
 
 ### Demonstration 
 
-![Demonstration](https://github.com/fyk211/Intro-to-IM/blob/main/February2/demonstration.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/February2/demonstration.gif?raw=true">
+</p>
