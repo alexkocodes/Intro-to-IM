@@ -1,8 +1,8 @@
-#February9
+# February2
 
-#Ripple Arts by Using Class
+# Ripple Arts by Using Class
 
-##How It Works
+## How It Works
 
 I got inspired by my last assignment, and decided to create an interactive program where user can click on the screen and add more ripples to the screen. 
 I made a ripple class, and every time the user clicks on the screen, it adds a new ripple to the ripple array. Each ripple has their own random color, and expands 
@@ -14,7 +14,7 @@ at their own rate without intervening others as well.
   <img src="">
 </p>
 
-##Difficulties
+## Difficulties
 
   ### Java Syntax
   I realized that there is some syntax difference between Java and C++ or Python. Therefore I had to look up some syntax and change my code, but overall the concepts
