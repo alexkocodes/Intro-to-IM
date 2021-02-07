@@ -33,7 +33,7 @@ at their own rate without intervening others as well.
   circles. I reazlied that at first if the speed is the same, the white circles will almost catch up with the growing colored circles, and it will just show as one 
   single circle growing witb a thin stroke. (See below) So I realized that I had to use a slower speed on the inner white circles so that they will grow slower than the outer
   ones. However, I just randomly put down a number for the speed so that the white circles would grow at a slower rate than the colored ones. It did not turn out 
-  to be what I wanted, but I think this way creates an interestingly satisfying effect. So I just went with it! I can click 
+  to be what I wanted, but I think this way creates an interestingly satisfying effect. So I just went with it! 
   <p align="center">
   <img src="https://github.com/fyk211/Intro-to-IM/blob/main/February9/Same%20Speed.gif?raw=true">
   </p>
