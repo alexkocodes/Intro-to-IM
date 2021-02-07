@@ -8,7 +8,7 @@ I got inspired by my last assignment, and decided to create an interactive progr
 I made a ripple class, and every time the user clicks on the screen, it adds a new ripple to the ripple array. Each ripple has their own random color, and expands 
 at their own rate without intervening others as well. 
 
-##Demonstration 
+## Demonstration 
 
 <p align="center">
   <img src="https://github.com/fyk211/Intro-to-IM/blob/main/February9/ripple.gif?raw=true">
