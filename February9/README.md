@@ -11,7 +11,7 @@ at their own rate without intervening others as well.
 ##Demonstration 
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/February9/ripple.gif?raw=true">
 </p>
 
 ## Difficulties
@@ -23,7 +23,7 @@ at their own rate without intervening others as well.
   I realized that the frame rate by default is too fast for my ripples to grow in a way that people can observe. Therefore I had to try differnet frame rates to find 
   the one that best illustrates the ripple effect. 
   <p align="center">
-  <img src="">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/February9/TooFast.gif?raw=true">
   </p>
 
   
@@ -31,11 +31,11 @@ at their own rate without intervening others as well.
   ### Making the inner circle disappear 
   I initially want to make inner circles disappear gradually to create a more realistic ripple effect, so I just draw circles filled with white color to "cover" the 
   circles. I reazlied that at first if the speed is the same, the white circles will almost catch up with the growing colored circles, and it will just show as one 
-  single circle growing witb a think stroke. (See below) So I realized that I had to use a slower speed on the inner white circles so that they will grow slower than the outer
+  single circle growing witb a thin stroke. (See below) So I realized that I had to use a slower speed on the inner white circles so that they will grow slower than the outer
   ones. However, I just randomly put down a number for the speed so that the white circles would grow at a slower rate than the colored ones. It did not turn out 
   to be what I wanted, but I think this way creates an interestingly satisfying effect. So I just went with it! I can click 
   <p align="center">
-  <img src="">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/February9/Same%20Speed.gif?raw=true">
   </p>
   
   
