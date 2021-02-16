@@ -30,6 +30,32 @@ This program generates a confusing but hilarious poem every time you click the s
 
   
 ## Some hilarious examples
+
+  ### Did anybody see Drake in Barbados the other day? 
+  <p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/February16/Drake.png?raw=true"
+  </p>
+  
+  ### I never know Katy Perry damages people's skin. 
+  <p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/February16/Katy%20Perry.png?raw=true"
+  </p>
+  
+  ### It must be nice to have Lady Gaga admire your skull. 
+  <p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/February16/Lady%20Gaga.png?raw=true"
+  </p>
+  
+  ### Jennifer Lawrence observes your abdomen? 
+  <p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/February16/jennifer.png?raw=true"
+  </p>
+  
+  ### You saw John F. Kennedy?! 
+  <p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/February16/john.png?raw=true"
+  </p>
+  
   
   
   
