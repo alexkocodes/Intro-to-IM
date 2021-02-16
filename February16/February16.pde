@@ -1,3 +1,8 @@
+// This program creates a seemingly confusing but hilarious poem with generative texts. 
+// Alex Ko
+// Fevbruary 16
+
+
 //initiate variables
 
 int n1, adj1, n2, adj2, v1, b1, adv1, adj3, n3, c1, p1;
