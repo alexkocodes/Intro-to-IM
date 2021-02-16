@@ -17,7 +17,16 @@ This program generates a confusing but hilarious poem every time you click the s
   
   ### My initial sketch 
   
+  <p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/February16/initial.png?raw=true">
+  </p>
+
+  ### Without fonts
   
+  <p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/February16/intial2.png?raw=true">
+  </p>
+
 
   
 ## Some hilarious examples
