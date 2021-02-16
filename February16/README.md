@@ -15,6 +15,18 @@ This program generates a confusing but hilarious poem every time you click the s
    
   I realized I had to use the function getStringColumn to load a whole column by its header name, which is a little bit different than what we do in C++ (but more convenient). 
   
+  ```
+  table = loadTable("words.csv", "header");
+  verbs = table.getStringColumn("verbs");
+  nouns = table.getStringColumn("nouns");
+  adverbs = table.getStringColumn("adverbs");
+  bodyparts = table.getStringColumn("body parts");
+  places = table.getStringColumn("places");
+  adjectives = table.getStringColumn("adjectives");
+  celebs = table.getStringColumn("celebs");
+  
+ ```
+  
   ### My initial sketch 
   
   <p align="center">
