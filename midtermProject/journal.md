@@ -30,7 +30,7 @@ I finsihed coding the whole game. I also finished writing the code for the coin 
 </p>
 
 ## March 2
-### Enable restart function. 
+### Goal: enable restart function. 
 
 
 ## March 3
