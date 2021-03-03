@@ -73,7 +73,7 @@ Since processing loops over the code severl times per second, if I don't put som
 
   <p align="center">
     <a href="https://youtu.be/md5BUZngqeI" target="_blank">
-      <img src="https://github.com/fyk211/Intro-to-IM/blob/main/midtermProject/progress_images/walkthru.gif?raw=true">
+      <img src="https://drive.google.com/file/d/1AK-_ivaVEercXR1RWYhOlKCxEicxACR5/view?usp=sharing">
     </a>
   </p>
 
