@@ -68,9 +68,12 @@ Since processing loops over the code severl times per second, if I don't put som
   
  ```
 
-## Game Walkthrough 
+## Game Walkthrough/Solutions
 
-
-https://www.youtube.com/embed/md5BUZngqeI
+<a href="https://youtu.be/md5BUZngqeI">
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/midtermProject/progress_images/Screen%20Shot%202021-03-03%20at%2011.33.35%20PM.png?raw=true">
+</p>
+</a>
 
 
