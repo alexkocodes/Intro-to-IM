@@ -70,4 +70,7 @@ Since processing loops over the code severl times per second, if I don't put som
 
 ## Game Walkthrough 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/md5BUZngqeI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://user-images.githubusercontent.com/57170398/109868743-71fd8e80-7c81-11eb-98ae-7d15dbf2569f.mov
+
+
