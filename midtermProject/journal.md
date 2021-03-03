@@ -31,11 +31,28 @@ I finsihed coding the whole game. I also finished writing the code for the coin 
 
 ## March 2
 ### Goal: enable restart function. 
+### Status: success. 
+### Problem 1: restarting the program, which basiclaly means going back to screen 0.
+I had a hard time finding a way to go back to the starting page, and I realized that I had to go into my button class to do this. When the user clicks on the "Restart?" button, the button takes this as a yes and sets the value [screen] to 0, which means we will go back to the starting page. 
+### Problem 2: resetting all the values back to their initial values. 
+I realized that, after going back to screen 0, I had to reset all the necessary global values back to their intial values. Because some of these values were all changed during the first round, setting them back to their intial values is needed to have a "new" state of the game. 
+
+
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/midtermProject/progress_images/Screen%20Shot%202021-03-01%20at%2011.47.09%20PM.png?raw=true">
+</p>
+
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/midtermProject/progress_images/Screen%20Shot%202021-03-01%20at%2011.47.09%20PM.png?raw=true">
+</p>
 
 
 ## March 3
-### Goal: improve the graphics and minor movements. 
-
+### Goal: add sounds
+### Status: success.
+I added sounds when the user clicks on the right answers or wrong answers, collects coins, wins or loses the game. Also the background music as well, which will be kept playing throughou the game except when the game is over or the user wins. 
+### Problem: play the sound file only once
+Since processing loops over the code severl times per second, if I don't put some flag variables to decide whether this sound has been played or not, the program will play the sound per iteration, which will result in the sounds stacked over each other at the rate of the frame (horrendous sounds). Therefore I came up with flag1 and flag2 to decide whether the sound has been played once or not. Of course, these two variables have to be reset when the game gets restarted. 
 
 
 
