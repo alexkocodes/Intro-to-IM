@@ -71,9 +71,9 @@ Since processing loops over the code severl times per second, if I don't put som
 ## Game Walkthrough/Solutions (Click on the gif to watch the video) 
 
 <a href="https://youtu.be/md5BUZngqeI" target="_blank">
-<p align="center">
+
   <img src="https://github.com/fyk211/Intro-to-IM/blob/main/midtermProject/progress_images/walkthru.gif?raw=true">
-</p>
+
 </a>
 
 
