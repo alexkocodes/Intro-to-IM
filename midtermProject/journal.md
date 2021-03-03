@@ -51,8 +51,8 @@ I realized that, after going back to screen 0, I had to reset all the necessary 
 
 
 ## March 3
-### Goal: add sounds
-### Status: success.
+### Goal: add sounds and finishes the project.
+### Status: success. (about 700 lines of code in total)
 I added sounds when the user clicks on the right answers or wrong answers, collects coins, wins or loses the game. Also the background music as well, which will be kept playing throughou the game except when the game is over or the user wins. 
 ### Problem: play the sound file only once
 Since processing loops over the code severl times per second, if I don't put some flag variables to decide whether this sound has been played or not, the program will play the sound per iteration, which will result in the sounds stacked over each other at the rate of the frame (horrendous sounds). Therefore I came up with flag1 and flag2 to decide whether the sound has been played once or not. Of course, these two variables have to be reset when the game gets restarted. 
