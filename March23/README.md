@@ -34,6 +34,21 @@ circuit where the the lights get turned on by its corresponding button (see belo
 ## Delay() is a bad idea. 
 I realized that when I use delay() to turn the lights on for a short amount of time, the whole program stops doing anything, which is not what I intended because I still need the program to detect when the user presses on the button or not during this amount of time. Therefore I found a solution online where I can use millis() to count the time passed by and perform another task. This way the program is not stopping at any point of the game. 
 
+```
+if((millis() - current) >= duration) //if the specific time has passed, same as using delay(specific time)
+    { 
+      digitalWrite(led[chosen], LOW); 
+      delay(interval);  
+      current = millis();
+      game_round += 1;
+      light_caught = false;
+      interval = random(1000, 5000);
+      chosen = random(0, 4);
+      duration  = random(200, 500);
+        
+    } 
+ ```
+
 ## Schematic 
 
 <p align="center">
