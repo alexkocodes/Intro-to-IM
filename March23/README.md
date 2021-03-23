@@ -1,6 +1,10 @@
 # Catch the Lights! 
 ## Inspired by the following game...
 
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/March23/3013.jpeg?raw=true">
+</p>
+
 
 
 ## How to play this game
@@ -13,17 +17,24 @@ and you "lose" that light.
 5. If you catch them all, all four LEDs will blink twice at the end. 
 6. If you lose any of them, you lose! And on the screen you can see how many you have caught. 
 
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/March23/IMG_4310.jpg?raw=true">
+</p>
+
 ## Difficulty 
 1. This is my first time trying Arduino and building my circuts. Therefore I had a hard time connecting the inputs and outputs. I followed the examples during the class and I managed to build a preliminary 
 circuit where the the lights get turned on by its corresponding button (see below). 
 
 2. In addition, even though arduino is based on C++ which I am already familiar with, arduino has its own set of special functions to communicate between the code and the circuit. It is a new concept to me since I am a cs major and mostly what I do is just code. But overall I find it very interesting as well because I get to have some hands on experiments. 
 
+## Delay() is a bad idea. 
+I realized that when I use delay() to turn the lights on for a short amount of time, the whole program stops doing anything, which is not what I intended because I still need the program to detect when the user presses on the button or not during this amount of time. Therefore I found a solution online where I can use millis() to count the time passed by and perform another task. This way the program is not stopping at any point of the game. 
+
 ## Schematic 
 
-
-
-## Picture 
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/March23/IMG_4311.jpg?raw=true">
+</p>
 
 ## Video Demonstration 
 
