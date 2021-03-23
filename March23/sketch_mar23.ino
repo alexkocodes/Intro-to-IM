@@ -76,7 +76,7 @@ void loop() {
       digitalWrite(led[chosen], HIGH);
     }
     
-    if(digitalRead(buttons[chosen])==HIGH and digitalRead(led[chosen]) == 1){
+    if(digitalRead(buttons[chosen])==HIGH and digitalRead(led[chosen]) == 1){ //check if the button is pressed WHILE the light is on
       if(light_caught == false){
         caught+=1;
         light_caught = true;
@@ -85,7 +85,7 @@ void loop() {
       }
       digitalWrite(led[chosen], LOW);
     }
-    if((millis() - current) >= duration)
+    if((millis() - current) >= duration) //check if the duration has passed 
     { 
       digitalWrite(led[chosen], LOW); 
       delay(interval);  
