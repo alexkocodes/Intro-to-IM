@@ -25,6 +25,10 @@ and you "lose" that light.
 1. This is my first time trying Arduino and building my circuts. Therefore I had a hard time connecting the inputs and outputs. I followed the examples during the class and I managed to build a preliminary 
 circuit where the the lights get turned on by its corresponding button (see below). 
 
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/March23/ezgif.com-gif-maker%20(1).gif?raw=true">
+</p>
+
 2. In addition, even though arduino is based on C++ which I am already familiar with, arduino has its own set of special functions to communicate between the code and the circuit. It is a new concept to me since I am a cs major and mostly what I do is just code. But overall I find it very interesting as well because I get to have some hands on experiments. 
 
 ## Delay() is a bad idea. 
