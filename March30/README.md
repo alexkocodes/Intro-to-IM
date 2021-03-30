@@ -1,5 +1,5 @@
 # March 30
-## Using analog and digital input 
+## Using analog and digital input to train your muscle stability.
 ### How this works 
 The user puts their finger on top of the photoresistor, and depending on the sensor value, the blue and yellow lights will display a certain pattern, such as (1) blue on, yellow off, (2) blue off, yellow on, (3) both on, (4) both off. The green switch uses the digitalRead to turn on the green light. Your job is to turn all three LED lights on by putting your finger near the photoresistor to achieve  the (3) pattern, and then pressing the green switch. 
 ### Demonstration 
