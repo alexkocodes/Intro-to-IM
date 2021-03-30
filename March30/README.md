@@ -10,5 +10,15 @@ The sensor value is always increasing or decreasing, therefore I could not choos
 ### What I Learned 
 When I put HIGH as the analog output for one of the LEDs, the light was not as bright as it used to be when I used digital output. I soon realized that, for analogWrite the range is 0 to 255! And for analogRead the range is 0 to 1000. I adjust the value and now the LED is as bright as it could be. 
 
+Example when I put LOW as the output value: 
+
+<p align="center">
+  <img src="">
+</p>
+
+
 ### Schematic 
 
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/March30/march30.jpg?raw=true">
+</p>
