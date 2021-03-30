@@ -7,6 +7,23 @@ int LDR = A2;
 int SWITCH = A3;
 int sensorValue;
 
+void blink(){
+  digitalWrite(green, HIGH);
+  delay(100);
+  digitalWrite(green, LOW);
+  
+  digitalWrite(yellow, HIGH);
+  delay(100);
+  digitalWrite(yellow, LOW);
+  
+  digitalWrite(blue, HIGH);
+  delay(100);
+  digitalWrite(blue, LOW);
+
+  delay(200);
+  
+}
+
 void setup() {
   pinMode(yellow, OUTPUT);
   pinMode(blue, OUTPUT);
@@ -43,9 +60,13 @@ void loop() {
     analogWrite(yellow, 0);
   }
 
-
-  if(digitalRead(SWITCH)==HIGH){
+  
+  
+  if(digitalRead(SWITCH)==HIGH and digitalRead(blue)==1 and digitalRead(yellow)==1) {
     digitalWrite(green, HIGH);
+    delay(600);
+    blink();
+    blink();
   }
   else{
     digitalWrite(green, LOW);
