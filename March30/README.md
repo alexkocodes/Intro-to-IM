@@ -60,4 +60,4 @@ Example when I put HIGH as the output value:
 
 ### VIDEO
 
-https://youtu.be/TmUriYPANeA
+https://youtu.be/vUrKt44quXs
