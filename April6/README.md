@@ -7,7 +7,7 @@
 For this assignment I have decided to create something that I had as a kid: an iPod. The user can twist the potentiometer and select one of the four songs to play. The user can later press and hold on the green switch to speed up the song, or the yellow switch to slow down the song. 
 
 <p align="center">
-  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/April6/IMG_4525.jpg?raw=true">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/April6/IMG_4529.jpg?raw=true">
 </p>
 
 
@@ -45,4 +45,4 @@ I have created four arrays of melodies and durations for four different songs. A
 
 ## Video
 
-https://youtu.be/Vm6DDqhD_3s
+https://youtu.be/hyJ-tGWdOvI
