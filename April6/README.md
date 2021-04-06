@@ -46,3 +46,9 @@ I have created four arrays of melodies and durations for four different songs. A
 ## Video
 
 https://youtu.be/hyJ-tGWdOvI
+
+## Schematic 
+
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/April6/IMG_4530.jpg?raw=true">
+</p>
