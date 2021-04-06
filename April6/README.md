@@ -28,7 +28,7 @@ Duration = Duration/t;
 ```
 Therefore, I chose to declare everything as float to have precise values. 
 
-## Interesting 
+## Interesting Things 
 ### Createing Arrays of Melodies 
 I have created four arrays of melodies and durations for four different songs. At first I thought it was difficult, but I realized the pitches.h file contains notes across 8 octaves, and the notes are easy to identify with a quick google search for note sheets. And the buzzer does not wear out or lose quality even when things are speeding up really fast. This led me to think that one day I can listen to Mozart by just creating the correct array melodies and durations. And since it is machine, it never misses a note! (Will machine become a professional pianist who never makes a mistake?) 
 
