@@ -68,3 +68,10 @@ https://youtu.be/lr4UsIStpF4
 
 
 ## Schematic 
+
+
+
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/April13/april13.jpg?raw=true">
+</p>
+
