@@ -8,7 +8,7 @@ I built my program based on the [gravity example](https://github.com/aaronsherwo
 5. The floor is divided into four different color areas: green, yellow, blue, and red from left to right. When the ball hits the floor, the light with the corresponding color will light up, even when you use the wind to blow the ball. 
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/April13/drop.gif?raw=true">
 </p>
 
 ## Challenges
