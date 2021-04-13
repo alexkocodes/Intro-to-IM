@@ -64,5 +64,7 @@ I found this assignment very interesting and hands-on! It was my first time maki
 
 ## Video 
 
+https://youtu.be/lr4UsIStpF4
+
 
 ## Schematic 
