@@ -11,5 +11,5 @@ Wired up the LDR and make sure the bird will go up and down based on the finger.
 I managed to complete my goal and added some modifications so that the bird won't go out of the screen. Below is a demonstration of what I have done today. 
 
 <p align="center">
-  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/Progress/Apr-19-2021%2023-35-48.gif?raw=true" width="200">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/Progress/Apr-19-2021%2023-35-48.gif?raw=true" width="700">
 </p>
