@@ -4,6 +4,7 @@ After a few days of thinking, I have decided to change my game. I will be making
 <p align="center">
   <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/inspo.png?raw=true">
 </p>
+
 ### Goal for today: 
 Wired up the LDR and make sure the bird will go up and down based on the finger. 
 ### Progress: 
