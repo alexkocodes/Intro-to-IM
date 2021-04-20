@@ -13,3 +13,9 @@ I managed to complete my goal and added some modifications so that the bird won'
 <p align="center">
   <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/Progress/Apr-19-2021%2023-35-48.gif?raw=true" width="700">
 </p>
+
+## April 20th 
+### Goal for today: 
+I will make the moving background and try to code out the moving pipes as well. If I have the cabalibity I will also try to come up with a detection algorithm to detect when the bird hits the pipe. 
+### Progress: 
+
