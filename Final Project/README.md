@@ -28,3 +28,12 @@ I had a function called __generate_pipe()__ that is used to generate two arrayst
 <p align="center">
   <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/Progress/Apr-21-2021%2023-51-37.gif?raw=true" width="700">
 </p>
+
+## April 21th 
+### Goal: detect when the bird hits the pipes
+### Progress: goal successfully completed. 
+The brid will stop at where it hits the pipe. 
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/Progress/ezgif.com-gif-maker%20(2).gif?raw=true" width="700">
+</p>
+
