@@ -37,3 +37,11 @@ The brid will stop at where it hits the pipe.
   <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/Progress/ezgif.com-gif-maker%20(2).gif?raw=true" width="700">
 </p>
 
+## April 23th 
+### Goal: make the game start screen
+### Progress: goal successfully completed. 
+The bird will first float and wait until the user press the space bar to start the game! 
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/Progress/april22.gif?raw=true" width="700">
+</p>
+
