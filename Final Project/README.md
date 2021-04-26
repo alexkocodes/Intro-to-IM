@@ -45,3 +45,11 @@ The bird will first float and wait until the user press the space bar to start t
   <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/Progress/april22.gif?raw=true" width="700">
 </p>
 
+## April 25th
+### Goal: make the game over screen and restart feature. Also add some sound effects. Add the timer. 
+### Progress: goal successfully completed. In addition, I also added a feature where the gap between the pipes will be smaller as the game progresses, and the speed will increase as well. 
+ 
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/Progress/april25.gif?raw=true" width="700">
+</p>
+
