@@ -53,3 +53,15 @@ The bird will first float and wait until the user press the space bar to start t
   <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/Progress/april25.gif?raw=true" width="700">
 </p>
 
+## April 27th
+### Goal: Add music. Add a second bird and a button on the arduino to control it as well. 
+### Progress: goal successfully completed. 
+### Challenge
+I found out that my initial approach of creating 100 integers in the array and draw 200 images (top and bottom, each has 100 pipes) was inefficient in terms of CPU use. Sometimes the program was kind of laggy as well. Therefore I had to use IntList to remove and append items after they are out of frame, and thankfully they worked! 
+ 
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/Progress/april27.gif?raw=true" width="700">
+</p>
+
+
+
