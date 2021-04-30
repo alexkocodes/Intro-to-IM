@@ -51,9 +51,36 @@ void generate_pipe(){
  
 }
 ```
+### Use frameCount to know the progress! 
+At first I did not know now to know the progress of the game, since I want the game to speed up and the gap to be smaller after some time. I realized I could use the __frameCount__ to decide which point we are at right now after the game has started! 
+```
+if(frameCount % 100 == 0){ // for every 100 frames, we do the following things
+      progress+=1;
+      if(progress % 10 ==0){
+        speed +=1;
+        gap += 10;
+        println(gap);
+      }
+    }
+ ```
 
 ## Interesting Things I Found
 ### Making it more efficient for CPU! 
+I noticed that my program was using a lot of the CPU due to the number of graphics moving and it could be lagging sometimes. I had to think about ways I can do to reduce the CPU usage of the program. I found out that, my initial approach of generating and moving the pipes might be the program. Initially, I generated 100 coordinates in the arrays and just drew all of them and moved all of them at the same time. I realized I could make this more efficient by removing the pipes that are already out of the frame to the left, and add pipes from the right. However, I did not know how I could remove a particular value from an already declared array. After doing some research, I knew that I can use the __IntList__ and use the __remove(index)__ function to remove a value at a particular index! 
+```
+if (pipeX.get(i) < - 700){ // if the pipe is already moving to the left side of the screen and out of the screen 
+      pipeX.remove(i); // remove the pipe when it's out of the frame
+      pipeY.remove(i); // remove the pipe when it's out of the frame
+      
+      pipeX.append( pipeX.get(pipeX.size() -1) + 500);
+      pipeY.append((int)random(-600, 0)); // add a new pipe to the end of the list
+      
+    }
+    
+```
+
+
+### The power of CSV 
 
 ## Schematic 
 
