@@ -15,7 +15,7 @@ I will be making a flappy bird game (below for inspiration) by using arduino and
 7. The user can know their score (time), and the program will notify the user if they achive a new high score or not. (The new high score will be stored in a __csv file__ that gets compared and updated each time a new record is set.) 
 
 <p align="center">
-  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/inspo.png?raw=true" width = "700">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/starting_page.gif?raw=true" width = "700">
 </p>
 
 
@@ -105,6 +105,13 @@ if(time/1000 > parseInt(score[0])){
 ## Schematic 
 
 ## Some Pictures 
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/IMG_5310.jpg?raw=true" width = "700">
+</p>
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/IMG_5311.jpg?raw=true" width = "700">
+</p>
+
 
 ## Video 
 
