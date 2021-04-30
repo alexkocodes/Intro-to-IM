@@ -1,4 +1,4 @@
-# Flappy Bird - Arduino + Processing by Alex Ko 
+# Flappy Bird X2! - Arduino + Processing by Alex Ko 
 ## Inspiration
 I will be making a flappy bird game (below for inspiration) by using arduino and processing. 
 <p align="center">
@@ -13,6 +13,10 @@ I will be making a flappy bird game (below for inspiration) by using arduino and
 5. __The program will speed up and the gap will be smaller as the game progresses!__
 6. The game is over when the bird hits the pipe. 
 7. The user can know their score (time), and the program will notify the user if they achive a new high score or not. (The new high score will be stored in a __csv file__ that gets compared and updated each time a new record is set.) 
+
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/inspo.png?raw=true" width = "700">
+</p>
 
 
 ## Challenges 
@@ -63,6 +67,15 @@ if(frameCount % 100 == 0){ // for every 100 frames, we do the following things
       }
     }
  ```
+ 
+###  I only want to play the song once! 
+I wanted to add background music to this game, but when I just put __bg.play()__, the music will be played over and over again and stacked on top of each other from the beginning, resulting in a horrendous sound. I soon found the function __isPlaying()__, and I came up with a function like this: 
+```
+if(bg.isPlaying() == false){
+    bg.play();
+  }
+```
+Basically, when the music is still playing, bg.isPlaying() will be true and it will prevent processing from playing the music over and over again while the previous round hasn't finished yet! 
 
 ## Interesting Things I Found
 ### Making it more efficient for CPU! 
@@ -79,9 +92,16 @@ if (pipeX.get(i) < - 700){ // if the pipe is already moving to the left side of 
     
 ```
 
-
 ### The power of CSV 
-
+I wanted to add the feature of keeping a record of new high score, and I knew that I had to use some sort of local storage to store the highest score achieved on this computer. Therefore, CSV came to my mind. I generated a csv file that contains the high score on this computer. At the end of each round, I read the previous highest score from the csv file, and compare the current score to the old high score. If it's bigger than the previous high score, this score gets updated and saved into the csv file. 
+```
+if(time/1000 > parseInt(score[0])){
+      table.setInt(0, 0, time/1000);
+      saveTable(table, "best score.csv");
+      high = true;
+     }
+     
+ ```
 ## Schematic 
 
 ## Some Pictures 
