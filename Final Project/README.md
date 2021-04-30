@@ -105,6 +105,9 @@ if(time/1000 > parseInt(score[0])){
      
  ```
 ## Schematic 
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/schematic.jpg?raw=true" width = "700">
+</p>
 
 ## Some Pictures 
 <p align="center">
@@ -113,7 +116,6 @@ if(time/1000 > parseInt(score[0])){
 <p align="center">
   <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/IMG_5311.jpg?raw=true" width = "700">
 </p>
-
 
 ## Video Demonstration
 
