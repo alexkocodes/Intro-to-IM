@@ -13,6 +13,8 @@ I will be making a flappy bird game (below for inspiration) by using arduino and
 5. __The program will speed up and the gap will be smaller as the game progresses!__
 6. The game is over when the bird hits the pipe. 
 7. The user can know their score (time), and the program will notify the user if they achive a new high score or not. (The new high score will be stored in a __csv file__ that gets compared and updated each time a new record is set.) 
+8. __You can play the game with two birds with your friend, since I personally find it very difficult to control two birds at the same time :D__
+9. __Or you can challenge your finger muslce and multitasking abilities and control two birds ;)__
 
 <p align="center">
   <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/starting_page.gif?raw=true" width = "700">
@@ -113,5 +115,8 @@ if(time/1000 > parseInt(score[0])){
 </p>
 
 
-## Video 
+## Video Demonstration
+
+One bird: https://youtu.be/g26TNXMtqSg
+Two birds (thanks to my friend who played it with me): https://youtu.be/hUrCy_rADp8
 
