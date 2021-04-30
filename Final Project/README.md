@@ -123,3 +123,8 @@ One bird: https://youtu.be/g26TNXMtqSg
 
 Two birds (special thanks to my friend who played it with me): https://youtu.be/hUrCy_rADp8
 
+<p align="center">
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/IMG_5318.JPG?raw=true" width = "700">
+</p>
+
+
