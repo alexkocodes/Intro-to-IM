@@ -1,9 +1,9 @@
 # Flappy Bird - Arduino + Processing by Alex Ko 
 ## Inspiration
-I will be making a flappy bird game (below for inspiration) by using arduino and processing. I plan to use the __LDR sensor__ to detect whether the user has clicked the sensor or not. 
+I will be making a flappy bird game (below for inspiration) by using arduino and processing. 
 <p align="center">
-  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/inspo.png?raw=true">
-</p>]
+  <img src="https://github.com/fyk211/Intro-to-IM/blob/main/Final%20Project/inspo.png?raw=true" width = "700">
+</p>
 
 ## How it works
 1. The user can choose to play with one bird or two birds by pressing 1 or 2 on the keyboard. 
