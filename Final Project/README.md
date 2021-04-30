@@ -119,6 +119,7 @@ if(time/1000 > parseInt(score[0])){
 
 ## Video Demonstration
 
-One bird: https://youtu.be/g26TNXMtqSg
-Two birds (thanks to my friend who played it with me): https://youtu.be/hUrCy_rADp8
+One bird: https://youtu.be/g26TNXMtqSg 
+
+Two birds (special thanks to my friend who played it with me): https://youtu.be/hUrCy_rADp8
 
